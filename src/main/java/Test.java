@@ -11,6 +11,7 @@ public class Test {
     public void ass(){
 
         System.out.println("=== =======start");
+        System.out.println("=== =======start");
     }
 
 }
